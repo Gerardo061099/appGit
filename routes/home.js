@@ -2,4 +2,4 @@
  *
  */
 
-console.log("Ruta home");
+console.log("home");

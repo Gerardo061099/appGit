@@ -1,6 +1,6 @@
-/*  **/
-console.log("Desarrollando en el Front-End")
 
-const token = 999564;
-const user = "@AbsoluteCobra099";
-const userID = 97648
+console.log("Desarrolando en el frontend con JavaScript");
+
+const token = 59786423;
+const user = "@skullStacks";
+console.log(`Token: ${token}`);
